@@ -43,6 +43,10 @@
 
 ### AI
 
+### 深度学习
+
+[深度学习500问](https://github.com/wuhaohao1234/DeepLearning-500-questions)
+
 tensflow
 
 ## 基础
