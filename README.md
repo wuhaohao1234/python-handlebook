@@ -22,12 +22,19 @@
 
 ## 学习渠道
 
+### 文档
+
+[自学的基本法则](https://www.yuque.com/yichu/selflearning)
 
 [官方文档](https://python.land/python-tutorial)
 
 [中文文档](https://docs.python.org/zh-cn/3.8/tutorial/index.html)
 
 [廖雪峰python](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
+### ppt
+
+[ppt](https://www.yuque.com/office/yuque/0/2020/pdf/265643/1592898943311-1290f33a-1678-4b76-8b2a-e1a314ca8fb8.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fyichu%2Fselflearning%2Fux59c6)
 
 以上渠道官方文档优先级最高，当然对于新手来说看廖雪峰文档吧
 
@@ -56,3 +63,11 @@ tensflow
 2. [helloworld](./docs/hello-world.md)
 
 3. [常用的变量类型](./docs/variable.md)
+
+4. [函数](./docs/function.md)
+
+5. [模块](./docs/module.md)
+
+6. [面向对象](./docs/oop.md)
+
+其它概念请看 廖雪峰python中的io编程，进程与线程，以上知识足够干活了
