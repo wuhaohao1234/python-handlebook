@@ -36,6 +36,10 @@
 
 [ppt](https://www.yuque.com/office/yuque/0/2020/pdf/265643/1592898943311-1290f33a-1678-4b76-8b2a-e1a314ca8fb8.pdf?from=https%3A%2F%2Fwww.yuque.com%2Fyichu%2Fselflearning%2Fux59c6)
 
+### 书籍
+
+[Python与量化投资：从基础到实战](http://books.hcquant.com/)
+
 以上渠道官方文档优先级最高，当然对于新手来说看廖雪峰文档吧
 
 其它的文档大可不看，甚至包括我写的
