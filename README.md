@@ -58,7 +58,8 @@
 
 [深度学习500问](https://github.com/wuhaohao1234/DeepLearning-500-questions)
 
-tensflow
+[tensorflow中文官网](https://tensorflow.google.cn/)
+[简单粗暴tensorflow](https://tf.wiki/zh_hans/)
 
 ## 基础
 
