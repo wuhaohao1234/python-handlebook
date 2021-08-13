@@ -57,6 +57,7 @@
 ### 深度学习
 
 [深度学习500问](https://github.com/wuhaohao1234/DeepLearning-500-questions)
+[动手学深度学习](https://zh.d2l.ai/index.html)
 
 [tensorflow中文官网](https://tensorflow.google.cn/)
 [简单粗暴tensorflow](https://tf.wiki/zh_hans/)
