@@ -65,6 +65,7 @@
 [简单粗暴tensorflow](https://tf.wiki/zh_hans/)
 
 [机器学习](https://easyai.tech/)
+[深度学习入门](https://weread.qq.com/web/reader/2263252071ef5b592265951kc81322c012c81e728d9d180)
 
 ## 基础
 
